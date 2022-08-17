@@ -6,3 +6,7 @@ Watch my *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
 
 
 ## Project Source Codes:
+*[Boggle Game](https://github.com/Evonnehu/MyStanCodeProjects/blob/main/MyStanCodeProjects/boggle_game/boggle.py)*
+>Recursive functions
+*[Popular Baby Names Searching System](https://github.com/Evonnehu/MyStanCodeProjects/baby_names_searching_system/babygraphics.py)*
+>Data Structure
